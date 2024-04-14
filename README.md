@@ -1,16 +1,28 @@
-### Hi there 👋
+# Hello, I'm Nathen Priyonggo 👋
 
-<!--
-**nathenpriyonggo/nathenpriyonggo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student passionate about software development and hoping to touch on cloud computing. Welcome to my GitHub profile! 
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Programming Languages: [List of Languages]
+- Technologies: [List of Technologies/Frameworks]
+- Tools: [List of Tools/Software]
+
+## Education and Work Experience
+
+- [Degree] in [Field], [University], [Year]
+- [Job Title], [Company/Organization], [Dates]
+
+## Projects
+
+- [Project Name](Link): Brief description.
+- [Project Name](Link): Brief description.
+- [Project Name](Link): Brief description.
+
+## Get in Touch
+
+- LinkedIn: [Your LinkedIn Profile URL]
+- Email: [Your Email Address]
+- Personal Website: [Your Website URL]
+
+![GitHub Stats](GitHub Stats Image URL)
