@@ -1,6 +1,6 @@
 # Hello, I'm Nathen Priyonggo 👋
 
-I'm a Computer Science student passionate about software development and hoping to touch on cloud computing. Welcome to my GitHub profile! 
+I'm a Computer Science student passionate about software development and hoping to touch on cloud computing☁️. Welcome to my GitHub profile! 
 
 ## Skills
 
