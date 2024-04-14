@@ -21,12 +21,9 @@ I'm a Computer Science student passionate about software development and hoping 
 
 ## Get in Touch
 
-- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]
-  [(https://linkedin.com/in/npriyo/)]
+- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/npriyo/) 
 - Email: [Your Email Address]
 - Personal Website: [Your Website URL]
-
-![GitHub Stats](GitHub Stats Image URL)
 
 
 ## 🌐 Socials:
