@@ -1,11 +1,56 @@
 # Hello, I'm Nathen Priyonggo 👋
 
-I'm a Computer Science student passionate about software development and hoping to touch on cloud computing☁️. Welcome to my GitHub profile! 
+I'm a Computer Science undergraduate student passionate about software development and operating systems, I'm also hoping to touch on a bit of cloud computing before I graduate.
 
-## 🛠️ Tools & Tech 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white)
 
---- 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/npriyo/)
-[![](https://visitcount.itsvg.in/api?id=nathenpriyonggo&icon=5&color=12)](https://visitcount.itsvg.in)
+<br><br>
 
+### 🛠️ Languages & Tools
+<a href="https://en.wikipedia.org/wiki/Python_(programming_language)" target="_blank">
+  <img align="left" alt="Python" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+</a>
+<a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
+  <img align="left" alt="C++" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+</a>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+  <img align="left" alt="C" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+</a>
+<a href="https://en.wikipedia.org/wiki/Java_(programming_language)" target="_blank">
+  <img align="left" alt="Java" width="30px" style="padding-right:10px;" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg' />
+</a>
+<a href="https://en.wikipedia.org/wiki/HTML" target="_blank">
+  <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+</a>
+<a href="https://en.wikipedia.org/wiki/CSS" target="_blank">
+  <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+</a>
+<a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank">
+  <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+</a>
+<a href="https://en.wikipedia.org/wiki/R_(programming_language)" target="_blank">
+  <img align="left" alt="R" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
+</a>
+<a href="https://en.wikipedia.org/wiki/Visual_Basic_(.NET)" target="_blank">
+  <img align="left" alt="F#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg" />
+</a>
+<a href="https://en.wikipedia.org/wiki/F_Sharp_(programming_language)/" target="_blank">
+  <img align="left" alt="F#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fsharp/fsharp-original.svg" />
+</a>
+
+
+
+
+<br>
+<br>
+
+### 💬 Connect with me
+<a href="https://www.linkedin.com/in/npriyo" target="_blank">
+  <img align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+</a>
+
+<br>
+<br>
+<br>
+
+---
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=nathenpriyonggo&label=Profile%20views&color=0e75b6&style=flat" alt="nathenpriyonggo" /> </p>
