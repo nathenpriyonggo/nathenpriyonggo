@@ -1,11 +1,13 @@
-# Hello, I'm Nathen!
+# 👋 Hello, I'm Nathen!
 
-I'm a Computer Science undergraduate student passionate about software development and operating systems, I'm also hoping to touch on a bit of cloud computing before I graduate.
+I'm a Computer Science undergraduate student passionate about software development and operating systems. Currently exploring the world of cloud computing to broaden my skill set before graduation.
+
+<br>
+<br>
 
 
-<br><br>
-
-### 🛠️ Languages & Tools
+## 🚀 Tech I'm Familiar With:
+- **Programming Languages:** 
 <a href="https://en.wikipedia.org/wiki/Python_(programming_language)" target="_blank">
   <img align="left" alt="Python" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </a>
@@ -39,18 +41,38 @@ I'm a Computer Science undergraduate student passionate about software developme
 
 
 
-
 <br>
 <br>
 
-### 💬 Connect with me
-<a href="https://www.linkedin.com/in/npriyo" target="_blank">
-  <img align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+
+
+- **Operating Systems:**
+<a href="https://en.wikipedia.org/wiki/MacOS" target="_blank">
+  <img align="left" alt="F#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" />
+</a>
+<a href="https://en.wikipedia.org/wiki/Microsoft_Windows" target="_blank">
+  <img align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
+</a>
+<a href="https://en.wikipedia.org/wiki/Linux" target="_blank">
+  <img align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 </a>
 
+
 <br>
 <br>
 <br>
+<br>
+
+
+## 💬 Connect with Me
+- <a href="https://www.linkedin.com/in/npriyo" target="_blank">LinkedIn</a>
+- <a href="https://github.com/nathenpriyonggo" target="_blank">GitHub</a>
+
+
+
+<br>
+<br>
+
 
 ---
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nathenpriyonggo&label=Profile%20views&color=0e75b6&style=flat" alt="nathenpriyonggo" /> </p>
