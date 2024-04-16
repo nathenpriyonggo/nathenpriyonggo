@@ -1,4 +1,4 @@
-# Hello, I'm Nathen Priyonggo 👋
+# Hello, I'm Nathen!
 
 I'm a Computer Science undergraduate student passionate about software development and operating systems, I'm also hoping to touch on a bit of cloud computing before I graduate.
 
