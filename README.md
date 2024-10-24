@@ -40,9 +40,14 @@ I'm a Computer Science undergraduate student passionate about software developme
 <a href="https://en.wikipedia.org/wiki/Visual_Basic_(.NET)" target="_blank">
   <img align="left" alt="F#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg" />
 </a>
+<a href="https://en.wikipedia.org/wiki/SQLite" target="_blank">
+  <img align="left" alt="SQLite" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
+</a>
 <a href="https://en.wikipedia.org/wiki/F_Sharp_(programming_language)/" target="_blank">
   <img align="left" alt="F#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fsharp/fsharp-original.svg" />
 </a>
+
+
 
 
 
