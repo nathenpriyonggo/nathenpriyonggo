@@ -13,7 +13,7 @@ I'm a Computer Science undergraduate student passionate about software developme
 
 ## 🚀 Tech I'm Familiar With:
 - **Programming Languages:** 
-<a href="https://en.wikipedia.org/wiki/Python_(programming_language)" target="_blank">
+<a href="https://www.python.org/" target="_blank">
   <img align="left" alt="Python" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </a>
 <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
@@ -32,13 +32,16 @@ I'm a Computer Science undergraduate student passionate about software developme
   <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 </a>
 <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank">
-  <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="left" alt="JS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 </a>
-<a href="https://en.wikipedia.org/wiki/R_(programming_language)" target="_blank">
+<a href="https://cran.rstudio.com/" target="_blank">
   <img align="left" alt="R" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
 </a>
 <a href="https://en.wikipedia.org/wiki/Visual_Basic_(.NET)" target="_blank">
   <img align="left" alt="F#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg" />
+</a>
+<a href="https://en.wikipedia.org/wiki/LaTeX" target="_blank">
+  <img align="left" alt="Latex" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" />
 </a>
 <a href="https://en.wikipedia.org/wiki/SQLite" target="_blank">
   <img align="left" alt="SQLite" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
@@ -46,20 +49,46 @@ I'm a Computer Science undergraduate student passionate about software developme
 <a href="https://en.wikipedia.org/wiki/F_Sharp_(programming_language)" target="_blank">
   <img align="left" alt="F#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fsharp/fsharp-original.svg" />
 </a>
-<a href="https://en.wikipedia.org/wiki/Go_(programming_language)" target="_blank">
+<a href="https://go.dev/" target="_blank">
   <img align="left" alt="Go" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
 </a>
-<a href="https://en.wikipedia.org/wiki/Arduino" target="_blank">
+
+
+
+<br>
+<br>
+
+
+- **Development Tools:**
+<a href="https://developer.apple.com/xcode/" target="_blank">
+  <img align="left" alt="XCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" />
+</a>
+<a href="https://code.visualstudio.com/" target="_blank">
+  <img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+</a>
+<a href="https://www.jetbrains.com/clion/" target="_blank">
+  <img align="left" alt="CLion" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clion/clion-original.svg" />
+</a>
+<a href="https://www.jetbrains.com/idea/" target="_blank">
+  <img align="left" alt="Intellij" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
+</a>
+<a href="https://posit.co/downloads/" target="_blank">
+  <img align="left" alt="RStudio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" />
+</a>
+<a href="https://www.figma.com/" target="_blank">
+  <img align="left" alt="XCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+</a>
+<a href="https://developer.apple.com/xcode/" target="_blank">
+  <img align="left" alt="XCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" />
+</a>
+<a href="https://www.arduino.cc/" target="_blank">
   <img align="left" alt="Arduino" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" />
 </a>
 
 
 
-
-
 <br>
 <br>
-
 
 
 - **Operating Systems:**
