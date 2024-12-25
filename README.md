@@ -13,7 +13,7 @@ I'm a Computer Science undergraduate student passionate about software developme
 
 ## 🚀 Tech I'm Familiar With:
 - **Programming Languages:** 
-<a href="https://en.wikipedia.org/wiki/Python_(programming_language)" target="_blank" rel="noopener noreferrer">
+<a href="https://en.wikipedia.org/wiki/Python_(programming_language)" target="_blank">
   <img align="left" alt="Python" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </a>
 <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
@@ -48,6 +48,9 @@ I'm a Computer Science undergraduate student passionate about software developme
 </a>
 <a href="https://en.wikipedia.org/wiki/Go_(programming_language)" target="_blank">
   <img align="left" alt="Go" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
+</a>
+<a href="https://en.wikipedia.org/wiki/Arduino" target="_blank">
+  <img align="left" alt="Arduino" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" />
 </a>
 
 
